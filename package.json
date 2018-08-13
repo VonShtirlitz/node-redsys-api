@@ -1,9 +1,9 @@
 {
   "name": "node-redsys-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {
-    "base64url": "^2.0.0",
-    "html-entities": "^1.2.0"
+    "base64url": "^3.0.0",
+    "html-entities": "^1.2.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
